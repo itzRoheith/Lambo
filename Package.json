@@ -1,0 +1,12 @@
+{
+    "name": "lambo-bot",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "start": "node flayer.js"
+    },
+    "dependencies": {
+      "mineflayer": "^5.1.0"
+    }
+  }
+  
